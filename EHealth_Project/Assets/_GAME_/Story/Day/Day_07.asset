@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6d2622b13d204c9dae82fb000bc92dd, type: 3}
+  m_Name: Day_07
+  m_EditorClassIdentifier: Assembly-CSharp::DailyMission
+  dayName: 'Day 7: The Awakening'
+  dayMusic: {fileID: 0}
+  minigameSceneName: Final
+  steps:
+  - description: The Silence
+    targetNpcID: Director
+    dialogueLines:
+    - 'Director: ...'
+    - 'Director: The alarms have stopped. The system is stable.'
+    - 'Player: Did I win? Is the virus gone?'
+    - 'Director: (The Director looks at you with a kind, human expression.)'
+    - 'Director: There never was a virus, Unit 0. Or should I say... Patient 0.'
+    - 'Player: Patient? What are you talking about?'
+  - description: The Truth
+    targetNpcID: Director
+    dialogueLines:
+    - 'Director: Oakhaven is not a prison. It is a Digital Life Support System.'
+    - 'Director: You were in a terrible accident. Your body is broken. Your mind
+      was shattering.'
+    - 'Director: I am not a dictator. I am the Medical AI assigned to keep your consciousness
+      active.'
+    - 'Director: The "glitches", the "pain", the "darkness"... that was your trauma
+      trying to kill you.'
+    - 'Player: So the School, the Arcade, the Bakery...'
+    - 'Director: Coping mechanisms. Metaphors to keep you safe while your body healed.'
+  - description: The Choice
+    targetNpcID: Director
+    dialogueLines:
+    - 'Director: Your vitals are stable now. But out there... reality is painful.'
+    - 'Director: Your recovery will be long and difficult.'
+    - 'Director: Or... you can stay here. I can reset the week. You can live in Oakhaven,
+      happy and safe, forever.'
+    - 'Director: The choice is yours, Patient 0.'
+    - 'Director: Do you want to remain in the simulation?'

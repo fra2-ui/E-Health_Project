@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d1514134bc4fbd41bb739b1b9a49231, type: 3}
+  m_Name: Clock
+  m_EditorClassIdentifier: Unity.2D.Tilemap.Extras::UnityEngine.RuleTile
+  m_DefaultSprite: {fileID: 2104586873, guid: 458d472511a655a4d91d3518940b7793, type: 3}
+  m_DefaultGameObject: {fileID: 0}
+  m_DefaultColliderType: 1
+  m_TilingRules:
+  - m_Id: 0
+    m_Sprites:
+    - {fileID: 2104586873, guid: 458d472511a655a4d91d3518940b7793, type: 3}
+    - {fileID: -535995509, guid: 458d472511a655a4d91d3518940b7793, type: 3}
+    - {fileID: 1286947001, guid: 458d472511a655a4d91d3518940b7793, type: 3}
+    - {fileID: 1894482624, guid: 458d472511a655a4d91d3518940b7793, type: 3}
+    - {fileID: 1218155962, guid: 458d472511a655a4d91d3518940b7793, type: 3}
+    - {fileID: 1218155962, guid: 458d472511a655a4d91d3518940b7793, type: 3}
+    - {fileID: -1505613271, guid: 458d472511a655a4d91d3518940b7793, type: 3}
+    - {fileID: 13898156, guid: 458d472511a655a4d91d3518940b7793, type: 3}
+    - {fileID: 439356838, guid: 458d472511a655a4d91d3518940b7793, type: 3}
+    - {fileID: 1876994785, guid: 458d472511a655a4d91d3518940b7793, type: 3}
+    - {fileID: -619650883, guid: 458d472511a655a4d91d3518940b7793, type: 3}
+    - {fileID: -866400782, guid: 458d472511a655a4d91d3518940b7793, type: 3}
+    - {fileID: 1439434986, guid: 458d472511a655a4d91d3518940b7793, type: 3}
+    - {fileID: 854820438, guid: 458d472511a655a4d91d3518940b7793, type: 3}
+    - {fileID: -461304819, guid: 458d472511a655a4d91d3518940b7793, type: 3}
+    - {fileID: -959595350, guid: 458d472511a655a4d91d3518940b7793, type: 3}
+    - {fileID: 154482284, guid: 458d472511a655a4d91d3518940b7793, type: 3}
+    - {fileID: -51427474, guid: 458d472511a655a4d91d3518940b7793, type: 3}
+    - {fileID: 804762262, guid: 458d472511a655a4d91d3518940b7793, type: 3}
+    - {fileID: 1320697527, guid: 458d472511a655a4d91d3518940b7793, type: 3}
+    - {fileID: 97495053, guid: 458d472511a655a4d91d3518940b7793, type: 3}
+    - {fileID: -2008191366, guid: 458d472511a655a4d91d3518940b7793, type: 3}
+    - {fileID: 148409790, guid: 458d472511a655a4d91d3518940b7793, type: 3}
+    - {fileID: 306850383, guid: 458d472511a655a4d91d3518940b7793, type: 3}
+    m_GameObject: {fileID: 0}
+    m_MinAnimationSpeed: 1
+    m_MaxAnimationSpeed: 1
+    m_PerlinScale: 0.5
+    m_Output: 2
+    m_ColliderType: 1
+    m_RandomTransform: 0
+    m_Neighbors: 
+    m_NeighborPositions: []
+    m_RuleTransform: 0

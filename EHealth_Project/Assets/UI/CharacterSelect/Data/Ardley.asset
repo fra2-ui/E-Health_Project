@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56c4b0a1e833145b8aba2fff347d6d92, type: 3}
+  m_Name: Ardley
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterName: Ardley
+  description: "Adley is a 28 year old single freelancer with a middle school education
+    and a low income of \u20AC17,500. While a recluse in the physical world, he finds
+    genuine happiness and community entirely online. He does not abuse substances;
+    instead, his pathology is exclusively digital, treating the internet as his true
+    home to compensate for his lack of real-world support."
+  characterSprite: {fileID: -3670919054317736195, guid: c8ffa187d4eb8bf4cbc12dbfde25850a, type: 3}
+  loadingSprites:
+  - {fileID: -1236004484599700795, guid: c8ffa187d4eb8bf4cbc12dbfde25850a, type: 3}
+  - {fileID: -2199736608318785850, guid: c8ffa187d4eb8bf4cbc12dbfde25850a, type: 3}
+  - {fileID: -911293475499369199, guid: c8ffa187d4eb8bf4cbc12dbfde25850a, type: 3}
+  - {fileID: 4684315807661285673, guid: c8ffa187d4eb8bf4cbc12dbfde25850a, type: 3}
+  gameplayPrefab: {fileID: 6694840822713063782, guid: a28ee17edc33d3c4681f1a030ff67e4b, type: 3}

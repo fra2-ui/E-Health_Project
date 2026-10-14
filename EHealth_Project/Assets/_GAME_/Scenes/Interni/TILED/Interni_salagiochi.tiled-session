@@ -1,0 +1,119 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "ARCADE.tmx": {
+            "expandedObjectLayers": [
+                7,
+                6
+            ],
+            "scale": 2.5232,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 134.35320228281546,
+                "y": 117.31135066582117
+            }
+        },
+        "BAKERY.tmx": {
+            "expandedObjectLayers": [
+                7,
+                6
+            ],
+            "scale": 2.7131,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 92.32980723158012,
+                "y": 90.30260587519811
+            }
+        },
+        "CINEMA.tmx": {
+            "expandedObjectLayers": [
+                6
+            ],
+            "scale": 1.7772,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 166.2727886563133,
+                "y": 145.17218095881165
+            }
+        },
+        "COMMUNITY_CENTER.tmx": {
+            "expandedObjectLayers": [
+                8,
+                6
+            ],
+            "scale": 1.9302,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 195.0575069940939,
+                "y": 134.18298621904464
+            }
+        },
+        "LIBRARY.tmx": {
+            "expandedObjectLayers": [
+                7,
+                6
+            ],
+            "scale": 2.355,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 147.13375796178343,
+                "y": 157.96178343949046
+            }
+        },
+        "PUB.tmx": {
+            "expandedObjectLayers": [
+                8,
+                7
+            ],
+            "scale": 3.194,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 142.4546023794615,
+                "y": 60.11271133375078
+            }
+        },
+        "SCHOOL.tmx": {
+            "expandedObjectLayers": [
+                7,
+                9
+            ],
+            "scale": 1.172,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 316.1262798634813,
+                "y": 174.06143344709898
+            }
+        },
+        "SUPERMARKET.tmx": {
+            "expandedObjectLayers": [
+                7
+            ],
+            "scale": 1.5675,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 313.55661881977676,
+                "y": 156.29984051036683
+            }
+        }
+    },
+    "last.imagePath": "/Users/pietromenegoi/Desktop/Unity_EHealth/Project/EHealth_Project/Assets/Interni/Sprites",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+    ],
+    "project": "Interni_salagiochi.tiled-project",
+    "recentFiles": [
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}

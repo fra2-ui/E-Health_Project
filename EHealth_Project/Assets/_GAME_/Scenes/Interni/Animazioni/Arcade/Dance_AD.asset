@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Dance_AD
+  m_EditorClassIdentifier: Unity.2D.Tilemap.Extras::UnityEngine.Tilemaps.AnimatedTile
+  m_AnimatedSprites:
+  - {fileID: -3301769329036136166, guid: f643b083ac78c40a8ab0dafa75c7bf92, type: 3}
+  - {fileID: 7378868954823436264, guid: f643b083ac78c40a8ab0dafa75c7bf92, type: 3}
+  - {fileID: 8635135506911237247, guid: f643b083ac78c40a8ab0dafa75c7bf92, type: 3}
+  - {fileID: 2074774064975167521, guid: f643b083ac78c40a8ab0dafa75c7bf92, type: 3}
+  - {fileID: -5433275098085611237, guid: f643b083ac78c40a8ab0dafa75c7bf92, type: 3}
+  - {fileID: -5372492747957239502, guid: f643b083ac78c40a8ab0dafa75c7bf92, type: 3}
+  - {fileID: -3128047862526502153, guid: f643b083ac78c40a8ab0dafa75c7bf92, type: 3}
+  - {fileID: 8584394486184258214, guid: f643b083ac78c40a8ab0dafa75c7bf92, type: 3}
+  - {fileID: -6168992124597635409, guid: f643b083ac78c40a8ab0dafa75c7bf92, type: 3}
+  - {fileID: -1785065690072648471, guid: f643b083ac78c40a8ab0dafa75c7bf92, type: 3}
+  - {fileID: 3145563329185564452, guid: f643b083ac78c40a8ab0dafa75c7bf92, type: 3}
+  - {fileID: -5991251313600623771, guid: f643b083ac78c40a8ab0dafa75c7bf92, type: 3}
+  - {fileID: -6463271153954028475, guid: f643b083ac78c40a8ab0dafa75c7bf92, type: 3}
+  - {fileID: -189897006843251260, guid: f643b083ac78c40a8ab0dafa75c7bf92, type: 3}
+  m_MinSpeed: 3
+  m_MaxSpeed: 3
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

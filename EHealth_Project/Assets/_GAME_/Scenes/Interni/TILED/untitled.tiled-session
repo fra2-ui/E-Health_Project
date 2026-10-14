@@ -1,0 +1,59 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "PUB.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "/Users/pietromenegoi/Desktop/Unity_EHealth/Project/EHealth_Project/Assets/Interni/Sprites/global.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.71,
+            "scaleInEditor": 1
+        },
+        "/Users/pietromenegoi/Desktop/Unity_EHealth/Project/EHealth_Project/Assets/Interni/Sprites/interior.tsx": {
+            "scaleInDock": 2.0092,
+            "scaleInEditor": 1
+        },
+        "/Users/pietromenegoi/Desktop/Unity_EHealth/Project/EHealth_Project/Assets/Interni/Sprites/items_inventory.tsx": {
+            "scaleInDock": 1.854,
+            "scaleInEditor": 1
+        },
+        "PUB.tmx": {
+            "scale": 1.4542,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 177.4171365699354,
+                "y": 149.56677210837574
+            }
+        },
+        "global.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.5414
+        }
+    },
+    "last.externalTilesetPath": "/Users/pietromenegoi/Desktop/Unity_EHealth/Project/EHealth_Project/Assets/Interni/Sprites",
+    "last.imagePath": "/Users/pietromenegoi/Desktop/Unity_EHealth/Project/EHealth_Project/Assets/Interni/Sprites",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "PUB.tmx",
+        "/Users/pietromenegoi/Desktop/Unity_EHealth/Project/EHealth_Project/Assets/Interni/Sprites/global.tsx",
+        "/Users/pietromenegoi/Desktop/Unity_EHealth/Project/EHealth_Project/Assets/Interni/Sprites/interior.tsx",
+        "/Users/pietromenegoi/Desktop/Unity_EHealth/Project/EHealth_Project/Assets/Interni/Sprites/items_inventory.tsx"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "PUB.tmx",
+        "/Users/pietromenegoi/Desktop/Unity_EHealth/Project/EHealth_Project/Assets/Interni/Sprites/global.tsx",
+        "/Users/pietromenegoi/Desktop/Unity_EHealth/Project/EHealth_Project/Assets/Interni/Sprites/interior.tsx",
+        "/Users/pietromenegoi/Desktop/Unity_EHealth/Project/EHealth_Project/Assets/Interni/Sprites/items_inventory.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}

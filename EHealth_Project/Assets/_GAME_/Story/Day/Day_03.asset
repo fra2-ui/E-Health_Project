@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6d2622b13d204c9dae82fb000bc92dd, type: 3}
+  m_Name: Day_03
+  m_EditorClassIdentifier: Assembly-CSharp::DailyMission
+  dayName: 'Day 3: The Phantom Signal'
+  dayMusic: {fileID: 0}
+  minigameSceneName: 
+  steps:
+  - description: The Assignment (Community Center)
+    targetNpcID: Director
+    dialogueLines:
+    - 'Director: Unit 0. The calibration was... adequate.'
+    - 'Director: Today we test your perception of our reality.'
+    - 'Director: Supplies are arriving at the Supermarket.'
+    - 'Director: Go to the Clerk. Ensure the inventory data is correct.'
+    - 'Director: Report any anomalies immediately. Dismissed.'
+  - description: The Glitch (Supermarket)
+    targetNpcID: ShopClerk
+    dialogueLines:
+    - 'Clerk: Beep... Beep... Beep...'
+    - 'Player: Excuse me? Are you okay?'
+    - 'Clerk: Beep... Item "TEXTURE_MILK_04" not found.'
+    - 'Player: What are you talking about? It''s just milk.'
+    - 'Clerk: (The Clerk twitches violently)'
+    - 'Clerk: (The Clerk twitches violently)'
+    - 'Clerk: Error 404: Cow not found.'
+    - 'Clerk: ...Oh! Hello citizen! Everything is fresh today!'
+    - 'Player: (He reset completely. I should check the Pub.)'
+  - description: The Signal (Pub)
+    targetNpcID: Bartender
+    dialogueLines:
+    - 'Bartender: Quiet day. Just how we like it. No trouble.'
+    - (Suddenly, the old radio on the counter screams with static.)
+    - 'Voice on Radio: "...can you hear me? Vital signs are stabilizing..."'
+    - 'Player: That voice... it sounds real. It''s not like the others.'
+    - 'Voice on Radio: "Wake up! Don''t let them delete the..."'
+    - (The Bartender smashes the radio with his fist. Silence.)
+    - 'Bartender: Damned weather interference. Ignore it.'
+    - 'Bartender: You look a bit shaken, friend. Why don''t you go outside?'
+    - 'Bartender: The Old Man, behind the bus stop, loves company. Go say hello,
+      it will calm your nerves.'
+  - description: The Fake Facade
+    targetNpcID: OldMan
+    dialogueLines:
+    - 'OldMan: Lovely weather today.'
+    - 'Player: You said that yesterday. And the day before.'
+    - 'OldMan: Lovely weather today.'
+    - 'Player: (This conversation didn''t calm me down at all.)'
+    - 'OldMan: Lovely weather today.'
+    - 'Player: (Everything is wrong here. I need to report all of this to the Director
+      immediately.)'
+  - description: The Suspicion
+    targetNpcID: Director
+    dialogueLines:
+    - 'Director: Unit 0. You have returned. Report.'
+    - 'Player: I heard a voice on the radio. A real voice. Calling me.'
+    - 'Director: Auditory hallucinations are common during calibration. Do not worry.'
+    - 'Player: The Clerk is broken. And the Old Man has gone crazy.'
+    - 'Director: You are tired. Your memory buffer is overflowing.'
+    - 'Director: Go to sleep. Tomorrow we will treat your... condition.'
+    - 'Director: Goodnight.'

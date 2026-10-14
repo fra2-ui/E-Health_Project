@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Arcade_giallo
+  m_EditorClassIdentifier: Unity.2D.Tilemap.Extras::UnityEngine.Tilemaps.AnimatedTile
+  m_AnimatedSprites:
+  - {fileID: 2120413371498326173, guid: f643b083ac78c40a8ab0dafa75c7bf92, type: 3}
+  - {fileID: 7051427885299144272, guid: f643b083ac78c40a8ab0dafa75c7bf92, type: 3}
+  - {fileID: -3852972843091523163, guid: f643b083ac78c40a8ab0dafa75c7bf92, type: 3}
+  - {fileID: -2653887239541151585, guid: f643b083ac78c40a8ab0dafa75c7bf92, type: 3}
+  - {fileID: 710952476916040862, guid: f643b083ac78c40a8ab0dafa75c7bf92, type: 3}
+  - {fileID: -1505446805539652782, guid: f643b083ac78c40a8ab0dafa75c7bf92, type: 3}
+  - {fileID: -6376941171138661566, guid: f643b083ac78c40a8ab0dafa75c7bf92, type: 3}
+  - {fileID: 2680614933719486884, guid: f643b083ac78c40a8ab0dafa75c7bf92, type: 3}
+  - {fileID: -6958946120334958362, guid: f643b083ac78c40a8ab0dafa75c7bf92, type: 3}
+  - {fileID: 9069327911869504326, guid: f643b083ac78c40a8ab0dafa75c7bf92, type: 3}
+  - {fileID: 7783017893718860735, guid: f643b083ac78c40a8ab0dafa75c7bf92, type: 3}
+  - {fileID: 8763472986568352442, guid: f643b083ac78c40a8ab0dafa75c7bf92, type: 3}
+  - {fileID: 6907066284872140705, guid: f643b083ac78c40a8ab0dafa75c7bf92, type: 3}
+  - {fileID: 6572944125115394771, guid: f643b083ac78c40a8ab0dafa75c7bf92, type: 3}
+  - {fileID: -4949918902883136788, guid: f643b083ac78c40a8ab0dafa75c7bf92, type: 3}
+  - {fileID: -1196364145092426074, guid: f643b083ac78c40a8ab0dafa75c7bf92, type: 3}
+  - {fileID: 6504462647929743170, guid: f643b083ac78c40a8ab0dafa75c7bf92, type: 3}
+  m_MinSpeed: 3
+  m_MaxSpeed: 3
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56c4b0a1e833145b8aba2fff347d6d92, type: 3}
+  m_Name: Alex
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterName: Alex
+  description: "Alex is a 28 year old married factory worker with an elementary education,
+    facing economic instability on \u20AC19,000 a year. To cope with financial stress
+    and boredom, he relies on alcohol and gambling, avoiding the digital world in
+    favor of loud, real-world social distractions."
+  characterSprite: {fileID: -9131421348039622047, guid: 131e9151297720942b171f6ddc3721f5, type: 3}
+  loadingSprites:
+  - {fileID: 2351989367030376468, guid: 131e9151297720942b171f6ddc3721f5, type: 3}
+  - {fileID: -2862286529544788604, guid: 131e9151297720942b171f6ddc3721f5, type: 3}
+  - {fileID: 7805019320527435172, guid: 131e9151297720942b171f6ddc3721f5, type: 3}
+  - {fileID: -4121388847239187496, guid: 131e9151297720942b171f6ddc3721f5, type: 3}
+  gameplayPrefab: {fileID: 5500789532878352881, guid: 14a65f1c6ad96534f88f670390cd2701, type: 3}

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6d2622b13d204c9dae82fb000bc92dd, type: 3}
+  m_Name: Day_05
+  m_EditorClassIdentifier: Assembly-CSharp::DailyMission
+  dayName: 'Day 5: The Glitch'
+  dayMusic: {fileID: 0}
+  minigameSceneName: 
+  steps:
+  - description: The System Failure
+    targetNpcID: Supervisor
+    dialogueLines:
+    - 'Supervisor: ...'
+    - 'Player: Hello? I won the game. What happens now?'
+    - 'Supervisor: ...'
+    - (He does not blink. He does not breathe. He is completely frozen.)
+    - 'Player: (He''s not answering. It''s like someone pulled his plug. I should
+      ask the Gamer Kid over there. He saw everything.)'
+  - description: God Mode
+    targetNpcID: GamerKid
+    dialogueLines:
+    - 'GamerKid: Whoa. The Supervisor just... stopped.'
+    - 'GamerKid: I tried to poke him, but he didn''t even react. He''s like a statue.'
+    - 'Player: The whole place feels heavy. Quiet.'
+    - 'GamerKid: I think you crashed him. You won the game and the system didn''t
+      know what to do.'
+    - 'GamerKid: I bet the others are stuck too. Go check the School.'
+    - 'GamerKid: See if the Teacher is still talking or if she is frozen like him.'
+  - description: The Loop
+    targetNpcID: Teacher
+    dialogueLines:
+    - 'Teacher: Open your books... Open your books... Open your books...'
+    - 'Player: Hello? Can you hear me?'
+    - 'Teacher: Rule 1: Silence. Rule 1: Silence. Rule 1: Silence.'
+    - 'Player: (She isn''t frozen, but she is stuck in a loop. She''s just repeating
+      the first line of her script.)'
+    - 'Player: (She isn''t a person. She never was.)'
+    - 'Player: (I need to confront the one who runs this place. I''m going to the
+      Community Center.)'
+  - description: The Critical Error
+    targetNpcID: Director
+    dialogueLines:
+    - 'Director: WELCOME UNIT 0. WELCOME UNIT 0.'
+    - 'Player: Stop the act. I know this is a simulation.'
+    - 'Director: CRITICAL THREAT DETECTED. CONTAINMENT BREACH.'
+    - 'Director: (The Director''s voice changes. It sounds like a machine now.)'
+    - 'Director: SYSTEM INTEGRITY AT 10%. PURGE PROTOCOL INITIATED.'
+    - 'Director: WARNING: TOTAL DELETION SCHEDULED FOR TOMORROW.'
+    - 'Player: Deletion? You''re going to destroy the city?'
+    - 'Director: END OF LINE. (The Director shuts down completely.)'
+    - 'Player: ...He''s going to wipe everything. I have to survive one more day.'

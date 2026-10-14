@@ -1,0 +1,160 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &291864036135502449
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1484500871615463034, guid: b0534e3f443fd7b4f86ec34fa34f5321, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8958669
+      objectReference: {fileID: 0}
+    - target: {fileID: 1484500871615463034, guid: b0534e3f443fd7b4f86ec34fa34f5321, type: 3}
+      propertyPath: m_Size.y
+      value: 0.64833975
+      objectReference: {fileID: 0}
+    - target: {fileID: 1484500871615463034, guid: b0534e3f443fd7b4f86ec34fa34f5321, type: 3}
+      propertyPath: m_Offset.x
+      value: 0.005743623
+      objectReference: {fileID: 0}
+    - target: {fileID: 1484500871615463034, guid: b0534e3f443fd7b4f86ec34fa34f5321, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.44263697
+      objectReference: {fileID: 0}
+    - target: {fileID: 2602715855366658904, guid: b0534e3f443fd7b4f86ec34fa34f5321, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 2602715855366658904, guid: b0534e3f443fd7b4f86ec34fa34f5321, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 25.09
+      objectReference: {fileID: 0}
+    - target: {fileID: 2602715855366658904, guid: b0534e3f443fd7b4f86ec34fa34f5321, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2602715855366658904, guid: b0534e3f443fd7b4f86ec34fa34f5321, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2602715855366658904, guid: b0534e3f443fd7b4f86ec34fa34f5321, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2602715855366658904, guid: b0534e3f443fd7b4f86ec34fa34f5321, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2602715855366658904, guid: b0534e3f443fd7b4f86ec34fa34f5321, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2602715855366658904, guid: b0534e3f443fd7b4f86ec34fa34f5321, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2602715855366658904, guid: b0534e3f443fd7b4f86ec34fa34f5321, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2602715855366658904, guid: b0534e3f443fd7b4f86ec34fa34f5321, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6382837753790269167, guid: b0534e3f443fd7b4f86ec34fa34f5321, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7100241024356951936, guid: b0534e3f443fd7b4f86ec34fa34f5321, type: 3}
+      propertyPath: m_Name
+      value: Player_Colt Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 7100241024356951936, guid: b0534e3f443fd7b4f86ec34fa34f5321, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7100241024356951936, guid: b0534e3f443fd7b4f86ec34fa34f5321, type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 7944687973966870727, guid: b0534e3f443fd7b4f86ec34fa34f5321, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7944687973966870727, guid: b0534e3f443fd7b4f86ec34fa34f5321, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8605863702472212379, guid: b0534e3f443fd7b4f86ec34fa34f5321, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8605863702472212379, guid: b0534e3f443fd7b4f86ec34fa34f5321, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 7100241024356951936, guid: b0534e3f443fd7b4f86ec34fa34f5321, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7567552900228585445}
+    - targetCorrespondingSourceObject: {fileID: 7100241024356951936, guid: b0534e3f443fd7b4f86ec34fa34f5321, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3432117330345968660}
+  m_SourcePrefab: {fileID: 100100000, guid: b0534e3f443fd7b4f86ec34fa34f5321, type: 3}
+--- !u!1 &7387582741113611761 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7100241024356951936, guid: b0534e3f443fd7b4f86ec34fa34f5321, type: 3}
+  m_PrefabInstance: {fileID: 291864036135502449}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &7567552900228585445
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7387582741113611761}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26c68010a736a408cba15ecbb1d02354, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::QuestManager
+  selectedCharacterIndex: 0
+  allDays:
+  - {fileID: 11400000, guid: f445ea00d60d7494a8cae0ea579586f3, type: 2}
+  - {fileID: 11400000, guid: 5b52e1a9bc05548499a99c5e9efa820a, type: 2}
+  - {fileID: 11400000, guid: 0bceb487c875e49f7b7eea75bfc72052, type: 2}
+  - {fileID: 11400000, guid: 30497cb5b44c5405b975c63dbab8ab24, type: 2}
+  - {fileID: 11400000, guid: 3c48ee61770f94afa98f3f64e46e29ef, type: 2}
+  - {fileID: 11400000, guid: c955867975bd94e69a70c17e0f3c58d1, type: 2}
+  - {fileID: 11400000, guid: 1c130d85f3db34eabaf9925d8df8b3ee, type: 2}
+  townSceneAfterDay2: Int_COMMUNITY_CENTER
+  townSceneAfterDay4: int_ARCADE
+  townSceneAfterDay6: Int_COMMUNITY_CENTER
+  defaultTownScene: 
+  spawnPointAfterDay2: InCC
+  spawnPointAfterDay4: InArcade
+  spawnPointAfterDay6: InCC
+  entrySpawnDay4: InFallingObject
+  entrySpawnDay6: InEndlessrun
+  musicPlayer: {fileID: 0}
+  currentDayIndex: 0
+  currentStepIndex: 0
+  totalGameScore: 0
+--- !u!114 &3432117330345968660
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7387582741113611761}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05135b6eec5252245adbb89fec778535, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerSpawnFromGameManager

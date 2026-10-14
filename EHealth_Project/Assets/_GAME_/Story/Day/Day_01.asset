@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6d2622b13d204c9dae82fb000bc92dd, type: 3}
+  m_Name: Day_01
+  m_EditorClassIdentifier: Assembly-CSharp::DailyMission
+  dayName: 'Day 1: The Static Town'
+  dayMusic: {fileID: 0}
+  minigameSceneName: 
+  steps:
+  - description: Read the Bus Stop sign.
+    targetNpcID: BusSign
+    dialogueLines:
+    - ...
+    - (I just stepped off the bus. I turned around to thank the driver... and it's
+      gone.)
+    - (No engine sound. No tire tracks. Just the wind.)
+    - 'Player: That''s impossible. I have my ticket right here.'
+    - '(The sign is rusted. It reads: ''ROUTE SUSPENDED INDEFINITELY - 1999'')'
+    - 'Player: 1999? Today is 2024.'
+    - (I need to find a phone. Maybe the Supermarket is open.)
+  - description: Ask the Clerk in the Supermarket for a phone.
+    targetNpcID: ShopClerk
+    dialogueLines:
+    - 'Clerk: Welcome to the Supermarket! We have fresh... items.'
+    - 'Player: Excuse me, can I use your phone?'
+    - 'Clerk: A phone? To call outside? Oh, honey.'
+    - 'Clerk: The lines have been down since the ''Big Crash''. Nobody calls outside.'
+    - 'Player: But I just arrived. I need to call home.'
+    - 'Clerk: Why would you want to leave? Oakhaven is perfect.'
+    - 'Clerk: You look confused. Go to the Library. The Librarian handles the new
+      arrivals.'
+  - description: Library
+    targetNpcID: Librarian
+    dialogueLines:
+    - 'Librarian: Shhh! Quiet, please. The books are sleeping.'
+    - 'Player: Sleeping? Books don''t sleep.'
+    - 'Librarian: Everything sleeps here eventually. You want a map? We don''t have
+      maps.'
+    - 'Player: Why not?'
+    - 'Librarian: Maps imply that there is something beyond the borders. There is
+      nothing but static.'
+    - 'Player: Static? What are you talking about?'
+    - 'Librarian: Don''t ask dangerous questions. I saw a kid running to the Arcade
+      with your file. Go get it.'
+  - description: Arcade
+    targetNpcID: GamerKid
+    dialogueLines:
+    - 'Kid: Go right! Jump! Shoot! ...Game Over. Ugh.'
+    - 'Player: Hey. The Librarian said you have my file.'
+    - 'Kid: Huh? Oh, the new guy. I traded your file for tokens.'
+    - 'Player: You what?!'
+    - 'Kid: Relax. Look at this screen. It''s not a game. It''s a live feed of...
+      you.'
+    - 'Player: Static? What are you talking about?'
+    - (On the screen, you see a pixelated version of yourself talking to the kid.)
+    - 'Kid: Cool graphics, right? Anyway, the Community Center Director is waiting.
+      She assigns the houses. Go now, noob.'
+  - description: CommunityCenter
+    targetNpcID: Director
+    dialogueLines:
+    - 'Director: Ah, Unit 0. You are finally here.'
+    - 'Player: My name is not Unit 0.'
+    - 'Director: Names are temporary. Oakhaven is forever.'
+    - 'Director: Since you have no home, you have been assigned a room.'
+    - 'Director: Tonight, we need to calibrate your mind. It''s standard procedure.'
+    - 'Player: I refuse. Let me go!'
+    - 'Director: Resistance is just a bug in the code. Close your eyes.'
+    - (Everything goes black...)

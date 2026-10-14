@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6d2622b13d204c9dae82fb000bc92dd, type: 3}
+  m_Name: Day_02
+  m_EditorClassIdentifier: Assembly-CSharp::DailyMission
+  dayName: 'Day 2: The Calibration'
+  dayMusic: {fileID: 0}
+  minigameSceneName: FirstNote
+  steps:
+  - description: The Awakening
+    targetNpcID: Director
+    dialogueLines:
+    - 'Director: Good morning, Unit 0. Was your sleep cycle efficient?'
+    - 'Player: Who are you? And why do you call me Unit 0?'
+    - 'Director: Questions are inefficient. Today your education begins.'
+    - 'Director: You must learn the history of our glorious Oakhaven.'
+    - 'Director: Proceed to the School. The Teacher is waiting for your logical formatting.'
+  - description: The Hallway
+    targetNpcID: HallMonitor
+    dialogueLines:
+    - 'Monitor: HALT. No running in the corridors.'
+    - 'Player: I''m looking for the Teacher. This place is a maze.'
+    - 'Monitor: You are the new arrival? The "Blank Slate"?'
+    - 'Monitor: At the end of the corridor, go right. It''s the last classroom.'
+    - 'Monitor: Do not be late. Tardiness is a symptom of free will.'
+  - description: The Blank Lesson
+    targetNpcID: Teacher
+    dialogueLines:
+    - 'Teacher: You are late. Sit down. Open your book to page 1.'
+    - (You open the book. The pages are completely blank.)
+    - 'Player: But... there is nothing written here.'
+    - 'Teacher: Correct. History is whatever we say it is.'
+    - 'Teacher: Repeat after me: "Happiness is Obedience. Silence is Golden."'
+    - 'Player: This is insane.'
+    - (The Teacher smiles without blinking.)
+    - 'Teacher: Very good. Now go to the Bakery.'
+    - 'Teacher:  You must nourish your biological shell.'
+  - description: Synthetic Food
+    targetNpcID: Baker
+    dialogueLines:
+    - 'Baker: Fresh bread! Just came out of the... synthesizer.'
+    - 'Player: What is that smell? It smells like burnt plastic.'
+    - 'Baker: It is pure energy! No waste, no useless flavors.'
+    - 'Baker: Eat. The Director does not tolerate weak citizens.'
+    - (You eat a piece. It tastes like ash and styrofoam.)
+    - 'Baker: Good citizen. Now return to the Community Center.'
+    - 'Baker: The citizens are "out of tune" today. They need your touch.'
+  - description: The Harmony
+    targetNpcID: Director
+    dialogueLines:
+    - 'Director: I sense a dissonance. The city''s brainwaves are not aligned.'
+    - 'Player: What do you want me to do?'
+    - 'Director: Take the control instrument. We must tune the Collective Frequency.'
+    - 'Director: Make the sound perfect. If you fail, I will have to reset you.'
+    - 'Director: Initiate calibration.'
+    - (The Director hands you a strange instrument covered in wires...)

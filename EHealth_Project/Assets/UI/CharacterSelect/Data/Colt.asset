@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56c4b0a1e833145b8aba2fff347d6d92, type: 3}
+  m_Name: Colt
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterName: Colt
+  description: "Colt is a 28 year old married employee with a high school diploma
+    and a \u20AC33,000 income. While outwardly stable, he secretly suffers from extreme
+    post-traumatic stress and feels completely isolated. He uses hard drugs to anesthetize
+    painful memories and excessive internet consumption to dissociate from reality."
+  characterSprite: {fileID: 22290664766029571, guid: 53022ef496988fd46b4895b64c31ccdb, type: 3}
+  loadingSprites:
+  - {fileID: 7713501954749295893, guid: 53022ef496988fd46b4895b64c31ccdb, type: 3}
+  - {fileID: 6489516968257754523, guid: 53022ef496988fd46b4895b64c31ccdb, type: 3}
+  - {fileID: 5230194646166910830, guid: 53022ef496988fd46b4895b64c31ccdb, type: 3}
+  - {fileID: -3526387818574432124, guid: 53022ef496988fd46b4895b64c31ccdb, type: 3}
+  gameplayPrefab: {fileID: 7387582741113611761, guid: 73d9fb64f325a6346a726a5de87c3820, type: 3}

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_GAME_/Scenes/MainMenu.unity
+    guid: ce303640339924158a163cf9dc46d511
+  - enabled: 1
+    path: Assets/UI/CharacterSelect/CharacterSelect.unity
+    guid: b30af89922f174cb9a82cf3d340679b6
+  - enabled: 1
+    path: Assets/UI/Loading/LoadingScene.unity
+    guid: 97a4480e15af04ef0a152a2cb1e9cf31
+  - enabled: 1
+    path: Assets/MiniGames/EndlessRun/Endlessrun.unity
+    guid: 0c33238ca73a3c34ba8b30127c6cb1d9
+  - enabled: 1
+    path: Assets/MiniGames/FirstNote/FirstNote.unity
+    guid: b8d9cc0b24a3b4f08aa4a9203ba6644b
+  - enabled: 1
+    path: Assets/MiniGames/FallingObject/FallingObject.unity
+    guid: a50b3a4cd3ee0aa469c57d4e92e3780c
+  - enabled: 1
+    path: Assets/_GAME_/Scenes/Credits.unity
+    guid: 11ad49e2ab11d1e41a65d983789529a0
+  - enabled: 1
+    path: Assets/_GAME_/Scenes/Final.unity
+    guid: 89ba888a8ceb0f44e9404fcbbc91d680
+  - enabled: 1
+    path: Assets/_GAME_/Scenes/OutWorld.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/_GAME_/Scenes/Interni/int_ARCADE.unity
+    guid: 286e301b82c174a95b132f0a784e9200
+  - enabled: 1
+    path: Assets/_GAME_/Scenes/Interni/int_BAKERY.unity
+    guid: 3d3ad7f5fc9f3476fb12be2a9312dd50
+  - enabled: 1
+    path: Assets/_GAME_/Scenes/Interni/int_CINEMA.unity
+    guid: 3f0856e7e2dfa4d49a3eefe8e7f10a7d
+  - enabled: 1
+    path: Assets/_GAME_/Scenes/Interni/Int_COMMUNITY_CENTER.unity
+    guid: cf08e7c8e84924ac9855dc99f322d129
+  - enabled: 1
+    path: Assets/_GAME_/Scenes/Interni/int_SCHOOL.unity
+    guid: 8769825a08b3844af903ea1784509f46
+  - enabled: 1
+    path: Assets/_GAME_/Scenes/Interni/Int_SUPERMARKET.unity
+    guid: e6372f138742244fea96fddde7b320f6
+  - enabled: 1
+    path: Assets/_GAME_/Scenes/Interni/interni_PUB.unity
+    guid: 3c452e3bd3bb84e498e59253d0183e06
+  - enabled: 1
+    path: Assets/_GAME_/Scenes/Interni/LIBRARY.unity
+    guid: d053fe7ccffdc46b38aeb981bfd16575
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
